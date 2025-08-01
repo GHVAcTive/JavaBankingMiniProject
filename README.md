@@ -7,7 +7,9 @@
 ## 👨‍💻 Developer Information
 
 **Name:** Suyash (A-62)
+<br>
 **Role:** B.Tech Computer Science Student – Specialization in Data Science
+<br>
 **Goal:** Mastering Java, OOPs, and building real-world projects for placements
 
 ---
