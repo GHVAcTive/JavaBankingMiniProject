@@ -6,7 +6,7 @@
 
 ## 👨‍💻 Developer Information
 
-**Name:** Suyash (A-62)
+**Name:** Suyash Kanhed
 <br>
 **Role:** B.Tech Computer Science Student – Specialization in Data Science
 <br>
