@@ -1,9 +1,3 @@
-Absolutely Suyash! Here's your **detailed and well-structured README file**, using proper **headings, emojis, spacing, and formatting** — ready to **copy and paste directly** into your `README.md` file.
-
----
-
----
-
 # 💻 Java Banking Mini Project with GUI
 
 *A beginner-friendly OOP-based project with full functionality and attractive UI.*
